@@ -650,6 +650,15 @@
       "website": "https://sora.org"
     },
     {
+      "prefix": 85,
+      "network": "madar",
+      "displayName": "MADAR Network",
+      "symbols": [],
+      "decimals": [],
+      "standardAccount": "*25519",
+      "website": "https://madar-network.com"
+    },
+    {
       "prefix": 88,
       "network": "polkadex",
       "displayName": "Polkadex Mainnet",
