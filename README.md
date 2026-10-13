@@ -1,3 +1,16 @@
+# SS58 Registry — community continuation
+
+> **The original [paritytech/ss58-registry](https://github.com/paritytech/ss58-registry) was archived on 16 April 2026 and no longer accepts new networks.**
+> This fork keeps every original entry unchanged and continues accepting requests as a free community service, maintained by [MADAR Network](https://madar-network.com).
+>
+> - **Search, check a prefix, convert addresses, request a prefix:** https://madar-network.com/ss58/
+> - **Current data:** [`community/registry.json`](community/registry.json): `upstream_snapshot` is the date of the inherited data; entries with `"added"` are community additions, all others are inherited unchanged.
+> - **Requests:** open an issue here (the page above fills it in). Rules: the first complete request by its public timestamp wins after a 7-day public review; a network already using a prefix on a live chain keeps it; one prefix per network.
+>
+> A prefix here prevents collisions between networks that use this registry; it does not certify a project. The text below is the original README.
+
+---
+
 # SS58 Registry
 
 [![GitHub license](https://img.shields.io/badge/license-Apache2-green)](#LICENSE) [![GitLab Status](https://gitlab.parity.io/parity/ss58-registry/badges/main/pipeline.svg)](https://gitlab.parity.io/parity/ss58-registry/pipelines)
