@@ -1446,6 +1446,20 @@
    "website": "https://www.vow.foundation/"
   },
   {
+   "prefix": 2027,
+   "network": "citizenchain",
+   "displayName": "CitizenChain",
+   "symbols": [
+    "GMB"
+   ],
+   "decimals": [
+    2
+   ],
+   "standardAccount": "*25519",
+   "website": "https://www.crcfrcn.com",
+   "added": "2026-10-15"
+  },
+  {
    "prefix": 2032,
    "network": "interlay",
    "displayName": "Interlay",
